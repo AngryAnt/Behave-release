@@ -1,5 +1,5 @@
   Behave.dll - distribution of the 'Behave library' behavioural logic system
-  version 1.1, September, 2010
+  version 1.2, October, 2010
 
   Copyright (C) AngryAnt, Emil Johansen
 
